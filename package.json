@@ -1,0 +1,14 @@
+{
+  "name": "agent-action-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A dependency-free action layer for safe, auditable model-triggered writes.",
+  "type": "module",
+  "scripts": {
+    "demo": "node example/demo.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
