@@ -12,6 +12,8 @@ node example/demo.mjs
 npm test
 ```
 
+[Implementation note: check authorization before replaying a tool result](docs/auth-before-replay.md)
+
 ## Why not just give the model your API
 
 Because "the model called the right endpoint" and "the right thing happened"
